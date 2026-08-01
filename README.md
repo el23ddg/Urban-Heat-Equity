@@ -221,6 +221,10 @@ or re-run the notebook. The Green Equity Index, both regression models, the
 correlation heatmap, and both visualizations all work exactly as before —
 except now every number is real.
 
+## Real Data used and got the map for Mumbai 
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/2857da14-c7cf-4ca5-804a-8a61f346aa49" />
+
+
 ### Notes and caveats
 - **Dynamic World** "green" = trees + grass + crops + flooded vegetation.
   If your city has unusual land cover (desert, heavy agriculture at the
