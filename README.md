@@ -251,31 +251,6 @@ except now every number is real.
 publishing — treat the above as a description of the method, not a claim
 about any actual city.)*
 
-## Draft LinkedIn post
-
-> **Concrete absorbs heat, trees cool it down — but how equitably is green
-> space distributed across a city?**
->
-> I built a small open-source pipeline in Python (GeoPandas + Scikit-Learn +
-> Folium) that scores every neighborhood on a "Green Equity Index" — green
-> cover relative to built-up area — and trains a regression model to predict
-> local surface-temperature anomalies from it.
->
-> Two things stood out:
-> 1. Green Equity Index alone explains the vast majority of neighborhood-
->    to-neighborhood temperature variation — far more than population
->    density by itself.
-> 2. Building height/density mattered just as much as population density in
->    the Random Forest model — heat vulnerability isn't just about how many
->    people live somewhere, it's about how much heat-trapping mass surrounds
->    them.
->
-> Code + an interactive map you can explore: [GitHub link in comments]
->
-> Would love thoughts from anyone working in urban planning or climate
-> resilience — what would you add to this model? #UrbanPlanning
-> #ClimateData #DataScience #GeoPandas #UrbanHeatIsland
-
 ## Tech stack
 Python · GeoPandas · Shapely · Scikit-Learn (Linear Regression, Random
 Forest) · Seaborn/Matplotlib · Folium
