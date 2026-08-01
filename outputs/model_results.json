@@ -1,0 +1,20 @@
+{
+  "LinearRegression": {
+    "r2": -3.3764677181884535,
+    "mae": 1.3441627073811364,
+    "coefficients": {
+      "green_equity_index": -0.178,
+      "population_density_km2": 0.0,
+      "avg_building_height_m": 0.02
+    }
+  },
+  "RandomForest": {
+    "r2": -1.085137796800796,
+    "mae": 0.7242649206349201,
+    "feature_importance": {
+      "green_equity_index": 0.228,
+      "population_density_km2": 0.519,
+      "avg_building_height_m": 0.254
+    }
+  }
+}
